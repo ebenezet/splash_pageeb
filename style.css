@@ -1,0 +1,66 @@
+.bigbox {
+    display:flex;
+    flex-direction: column;
+       justify-content: center;
+        align-items: center;
+
+  border: 5px;
+}
+
+.reddish { 
+    color:red;
+
+}
+.box1 {
+     display:flex;
+        flex-direction: column;
+           align-items: center;
+        justify-content: center;
+         
+  border: none;
+
+}
+
+p {
+    margin:0px;
+    font-size: large;
+}
+
+.box2 {
+     display:flex;
+     flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      margin: 20px;
+  border: none;
+ 
+}
+
+footer {
+    display: flex;
+    align-items: flex-end;
+}
+
+.box2a {
+     display:flex;
+        flex-direction: column;
+        margin: 30px;
+  border: none;
+  
+}
+
+
+.box2b {
+     display:flex;
+        flex-direction: column;
+    border: none;
+    margin: 30px;
+}
+
+.box3 {
+     display:flex;
+       flex-direction: column;
+       justify-content: center;
+       align-self: flex-end;
+  border: none;
+}
